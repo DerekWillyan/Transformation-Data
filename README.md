@@ -32,7 +32,7 @@ Este projeto é um script em Python que permite transformar dados de arquivos JS
 Execute o script:
 
   ```bash
-  python transform_to_sql.py
+  python etlScript.py
   ```
 Siga as instruções fornecidas pelo script:
 - Especifique o caminho do arquivo (JSON, CSV ou XML).
